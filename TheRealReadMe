@@ -5,5 +5,22 @@ To create an automated report that extracts data from Google Analytics for one o
 transactions, and sales for the past 30 days.  After we’ve created this automated report, we will consider
 adding in features for future recommendations.
 
+Recap for 9.22 - Lexi
 
+We set up our computers with a proper IDLE (so PyCharm and Anaconda should have you covered), and also
+created + tested file sharing on GitHub (through PyCharm it's easy, Terminal is a little more tricky).
+
+So now we can collaborate on the project. The next step is to set up the project skeleton. You've noticed
+that when you look at other repos in GitHub, there's all sorts of folders and pages with info. There's no
+set way to do this, just how we think it's best organizationally for ourselves (that's why they're all
+different from repo to repo)
+
+Much of the organization has to do with the packages that we need to use. So the next step IMO is to
+get the packages and modules working on our computers (maybe have them on our shared repo also)? Anyway
+let's see if we can get this to work:
+
+https://github.com/clintecker/python-googleanalytics
+
+I would like to think that the script, when working properly, can straight pull data from Analytics
+Have a look and we'll see
 
